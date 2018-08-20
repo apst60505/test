@@ -80,6 +80,10 @@
             <div class="content">
                 <div class="title m-b-md">
                     虎科大資管系Laravel
+					<br>
+					自主學習課程頹融
+					<br>
+					1234567890
                 </div>
 
                 <div class="links">
